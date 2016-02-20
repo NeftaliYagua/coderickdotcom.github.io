@@ -250,6 +250,11 @@ ul{
   padding: 0;
 }
 
+ul>li{
+  display: inline-block;
+}
+
+
 .blog-posts{
   margin: auto;
   width: 60%;
