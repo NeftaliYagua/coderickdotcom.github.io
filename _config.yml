@@ -9,8 +9,8 @@
 title: coderick
 email: rick@coderick.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hey I'm Ricardo and this is where I store my thoughts, opinions,
-  and rants about everything and every one. But it's mostly about tech and code.
+  Soy Ricado, y aqui es donde guardo lo que necesito decir sobre todo lo que me rodea,
+  que casi siempre termina siendo sobre tecnologia, codigo o podcasts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://coderick.com" # the base hostname & protocol for your site
 twitter_username: rasabatino
