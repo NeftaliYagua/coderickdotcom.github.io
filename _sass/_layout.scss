@@ -239,3 +239,98 @@
         }
     }
 }
+// MY STUFF =============================================================================
+.blog-posts{
+  margin: auto;
+  width: 60%;
+}
+
+#spacer{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+ .main-theme{
+   min-height: 100vh;
+   position: relative;
+   background-image: linear-gradient(90deg, rgb(5, 70, 103) 23%, rgb(11, 121, 194) 100%);
+   background-image: -moz-linear-gradient(left, rgb(5, 70, 103) 23%, rgb(11, 121, 194) 100%);
+   background-image: -webkit-linear-gradient(left, rgb(5, 70, 103) 23%, rgb(11, 121, 194) 100%);
+   background-image: -o-linear-gradient(left, rgb(5, 70, 103) 23%, rgb(11, 121, 194) 100%);
+   background-image: -ms-linear-gradient(left, rgb(5, 70, 103) 23%, rgb(11, 121, 194) 100%);
+   color: #f4f7f5;
+   letter-spacing: normal;
+ }
+
+.main-theme h3, .main-theme p{
+  color: #98bdee;
+  letter-spacing: 0.1em;
+  font-family: futura;
+}
+
+.main-theme a {
+  text-decoration: none;
+  color: #f4f7f5;
+  letter-spacing: normal;
+}
+
+.main-theme a:hover {
+  color: #bced09;
+}
+
+ .hero-container {
+   position: absolute;
+   left: 0; right: 0; top: 30%;
+   text-align: left;
+   font-size: 1.25rem;
+ }
+
+ .hero-text{
+   max-width: calc(700px + 2rem);
+   margin: 0 auto;
+   position: relative;
+   padding: 1rem;
+   display: block;
+ }
+
+ .flecha{
+   position: absolute;
+   left: 50%;
+   margin-left: -1.5rem;
+   display: inline-block;
+   height: 3rem;
+   width: 3rem;
+   border-radius: 50%;
+   background: url(hands.png) center no-repeat white;
+ }
+
+.footer-content {
+  max-width: calc(700px + 2rem);
+  margin: 0 auto;
+  position: relative;
+  padding: 1rem;
+  text-align: center;
+}
+
+/*for the blinking cursor*/
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+  @keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+  @-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+  @-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
