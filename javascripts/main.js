@@ -29,3 +29,11 @@ $(function(){
       loop:true
     });
 });
+
+$(function(){
+    $("#typedEng").typed({
+      strings: ["thoughts ^100", "projects", "rants", "awful tweets", "whatever's on my mind"] ,
+      typeSpeed: 40,
+      loop:true
+    });
+});
