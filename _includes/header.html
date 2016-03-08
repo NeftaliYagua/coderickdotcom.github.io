@@ -1,28 +1,25 @@
-
-<header class="site-header">
-  <div class="header-theme">
-   <!-- TODO: agregar una imagen de fondo -->
-    <div class="hero-container">
-      <div class="hero-text">
-        <a href="/" style="color:#f4f7f5 !importat;"><h1>codeRick</h1></a>
-        <nav>
+<!-- Header -->
+<header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
+  <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="special">
+        <a href="#menu" class="menuToggle"><span>Menu</span></a>
+        <div id="menu">
           <ul>
-            <li><a href="/info" >Acerca de mi</a></li>
-        <!-- TODO: buscar como cono identificar de donde esta leyendo una persona
-        y automaticamente elegir el idioma, else cambiar el idioma por este link -->
-            <li id="spacer">|</li>
-            <li><a href="/audio" class="cl-effect-12">audio</a></li>
-            <li id="spacer">|</li>
-            <li><a href="http://www.twitter.com/rasabatino">twitter</a></li>
-            <li id="spacer">|</li>
-            <li><a href="http://www.instagram.com/ricardo-sabatino">instagram</a></li>
-            <li id="spacer">|</li>
-            <li><a href="http://www.github.com/coderickdotcom">github</a></li>
-            <li id="spacer">|</li>
-            <li><a href=""><img src="images/muricaflag.jpg" alt="Go to English site"></a></li>
+            <li><a href="index.html">Home</a></li>
+            {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+            <li><a href="#">Sign Up</a></li>
+            <li><a href="#">Log In</a></li>
+            <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
+                   class="icon fa-feed"> RSS Feed</a></li>
           </ul>
-        </nav>
-      </div>
-    </div>
-  </div>
+        </div>
+      </li>
+    </ul>
+  </nav>
 </header>
