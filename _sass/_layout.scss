@@ -241,7 +241,9 @@
 }
 // MY STUFF =============================================================================
 nav{
-  display: inline-block !important;
+  display: flex !important;
+  flex-flow: row;
+  justify-content: space-between;
 }
 
 ul{
@@ -307,7 +309,7 @@ ul>li{
 
  .hero-container {
    position: absolute;
-   left: 0; right: 0; top: 30%;
+   left: 0; right: 0; top: 20%;
    text-align: left;
    font-size: 1.25rem;
  }
@@ -328,7 +330,7 @@ ul>li{
    height: 3rem;
    width: 3rem;
    border-radius: 50%;
-   background: url(hands.png) center no-repeat white;
+   background-image: URL(hands.png) center no-repeat;
  }
 
 .footer-content {
