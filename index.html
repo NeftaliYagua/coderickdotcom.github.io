@@ -1,23 +1,21 @@
 ---
-layout: mainpage
+layout: scaffold
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="hero">
+  <div class="hero-wrapper">
+    <div class="content">
+      <h1>codeRick</h1>
+      <h3>A repository of my <span id="typed"></span></h3>
+      <p>Always looking for what's next in my to-do list. Learning as fast as my mind lets me.</p>
+      <h2>Navigation</h2>
+      {% include nav.html %}
+    </div>
+  </div>
+  <a class="arrow-down" href="#writing"></a>
 </div>
+<main>
+  <div class="content" id="writing">
+    <h1>Blog</h1>
+    {% include post-index.html %}
+  </div>
+</main>

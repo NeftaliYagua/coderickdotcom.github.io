@@ -43,7 +43,7 @@
         this.showCursor = this.isInput ? false : this.options.showCursor;
 
         // text content of element
-        this.elContent = this.attr ? this.el.attr(this.attr) : this.el.text()
+        this.elContent = this.attr ? this.el.attr(this.attr) : this.el.text();
 
         // html or plain text
         this.contentType = this.options.contentType;
@@ -374,7 +374,7 @@
             var self = this;
             clearInterval(self.timeout);
             var id = this.el.attr('id');
-            this.el.after('<span id="' + id + '"/>')
+            this.el.after('<span id="' + id + '"/>');
             this.el.remove();
             if (typeof this.cursor !== 'undefined') {
                 this.cursor.remove();
