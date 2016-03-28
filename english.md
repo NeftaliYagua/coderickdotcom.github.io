@@ -1,15 +1,15 @@
 ---
 title: About
 layout: page
-summary: My name is Ricardo Sabatino, and I enjoy spending time making interesting things online. Sometimes for money.
+summary:  I make interesting things online. Sometimes they get me paid.
 permalink: /english/index.html
 ---
-# Hey there! I'm Ricardo Sabatino.
+# Hey there! I'm Ricardo.
 Rick is cool too. I like to solve problems and get ideas of the ground.
 
 Currently I'm working as CTO and co-founder @ [COTOLABS](http://www.cotolabs.com), while working on some  [side projects](/projects) and finish up studying. I have a background in Mechatronics and Mechanical Engineering, am somewhat of a neat freak and have a sincere and public hatred for uncommented and ugly code.
 
-I work with the full-stack, though mostly making web apps in Node + MongoDB + whatever is needed on top of that, or python.
+I work with the full-stack, mostly making web apps in HTML + CSS + Node + Javascript + MongoDB and python. While getting a hang of React & React Native.
 
 When I'm not working or studying, I'm probably working out, looking for obscure webpages, watching movies or playing guitar.
 

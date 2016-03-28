@@ -11,6 +11,7 @@ El concepto de un Startup Weekend ([si no sabes que es, este es el video para ti
 Mi experiencia del antes, durante y después fue así:
 
 ## Día 1
+![](https://media.giphy.com/media/d6WWh3Em7kWHu/giphy.gif)
 Donde se da la bienvenida y explicación del formato, luego todos los participantes que tengan una idea tienen 1 minuto en el escenario para picharla a los otros 119.
 
 *No es obligatorio presentar una idea*. Si es obligatorio esperar que las otras 120 personas lo hagan.
@@ -48,6 +49,7 @@ idea prefabricada va a ser más dificil aceptar cambios.
 Luego de intentar aprenderte los nombres de todo tu equipo, intercambiar números, crear grupos en Slack o Trello o Whatsapp o Telegram o Fax,  y definir mejor la idea a todos los participantes, acaba el día 1.
 
 ## Día 2
+![](https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif)
 
 Donde se ve quien va a aguantar las siguientes 48 horas (de nuestro equipo un participante renunció a medio día).
 
@@ -76,7 +78,7 @@ Y yo personalmente me di cuenta de esto muy muy tarde.
 A las 9:30pm del sábado paró la música y dimos el día por terminado oficialmente. Igual seguirás trabajando en tu casa hasta caer desmayado.
 
 ## Día 3
-
+![](https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif)
 Donde aprenderás el verdadero significado de estrés.
 
 Para este momento llevas ya unas ~36 horas pensando y trabajando en tu idea. Entras al evento a las 7:30am y te sientas en tu puesto de trabajo a seguir dandole donde dejaste todo anoche, eres el dios de la productividad, nada se interpondrá en tu camino.
