@@ -8,3 +8,11 @@ $(function(){
       loop:false
     });
 });
+
+$(function(){
+    $("#logito").typed({
+      strings: ["coderR", "co co", "codeRick"] ,
+      typeSpeed: 80,
+      loop:false
+    });
+});
