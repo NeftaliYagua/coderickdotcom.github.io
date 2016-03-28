@@ -7,7 +7,7 @@ permalink: /about/index.html
 # Hey there! I'm Ricardo Sabatino.
 Rick is cool too. I like to solve problems and get ideas of the ground.
 
-Currently I'm working as CTO and co-founder @ [COTOLABS](http://www.cotolabs.com), while working on some  [side projects](/projects) y and finish up studying. I have a background in Mechatronics and Mechanical Engineering, am somewhat of a neat freak and have a sincere and public hatred for uncommented and ugly code.
+Currently I'm working as CTO and co-founder @ [COTOLABS](http://www.cotolabs.com), while working on some  [side projects](/projects) and finish up studying. I have a background in Mechatronics and Mechanical Engineering, am somewhat of a neat freak and have a sincere and public hatred for uncommented and ugly code.
 
 I work with the full-stack, though mostly making web apps in Node + MongoDB + whatever is needed on top of that, or python.
 
