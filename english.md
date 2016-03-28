@@ -2,7 +2,7 @@
 title: About
 layout: page
 summary: My name is Ricardo Sabatino, and I enjoy spending time making interesting things online. Sometimes for money.
-permalink: /about/index.html
+permalink: /english/index.html
 ---
 # Hey there! I'm Ricardo Sabatino.
 Rick is cool too. I like to solve problems and get ideas of the ground.

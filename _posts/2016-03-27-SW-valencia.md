@@ -2,7 +2,7 @@
 title: Valencia Startup Weekend.
 summary: Mi experiencia y consejo a quienes quieran participar en el siguiente.
 layout: post
-date: 2016-03-16
+date: 2016-03-27
 ---
 TL;DR: Si eres diseñador o programador (o buscas talento), un SW es *el lugar* para hacer relaciones con un valor infinito, aprender de manera acelerada y mostrar que tienes lo que se necesita (Free curriculum padding too). Sigue leyendo si quieres saber los detalles. [También deberías ver cual fue nuestra aplicación.](twitter.com/biztrackerv)
 ***
@@ -23,11 +23,13 @@ Porque ni mi idea, ni la de ninguno de los que les pedi el email fueron seleccio
 Ya no era ese raro:
 >epale pana eh... tu idea no era terrible... tienes un puesto que sobre en tu equipo?
 
-Apenas vimos que todos estábamos libres, buscamos trabajar juntos. Y si no vas a trabajar en tu idea, deberías por lo menos trabajar con un buen equipo, o vas a terminar frustrado. [Aparte pienso que existe mérito en pulir malas ideas](ADD-LINK-TO-NEXT-ARTICLE).
+Apenas vimos que todos estábamos libres, buscamos trabajar juntos. Y si no vas a trabajar en tu idea, deberías por lo menos trabajar con un buen equipo, o vas a terminar frustrado. [Aparte pienso que existe mérito en pulir malas ideas](/posts/malas-ideas).
 
 En nuestro caso la idea fue (y sigue siendo) [Biztracker](twitter.com/biztrackerv), una red que permite a ti o a tu compañía tener estadísticas al estilo de Google Analytics sobre quien ha vista la información en tu tarjeta de presentación.
 
 El staff de los SW deja bien claro a todos los presentes que un equipo debe ser balanceado entre programadores, diseñadores, personas de marketing, de negocios, abogados, etc...  En mi opinion que es mejor tener un equipo de personas competentes a un equipo balanceado, pero adivinar quien es competente no es simple.
+
+
 ```
 tip 1:
 Necesitas un diseñador en tu equipo.
@@ -56,6 +58,8 @@ El lema del segundo día es: Comete errores rápido, repararlos, y busca el sigu
 Las personas que no estén dispuestas a trabajar bajo presión o no aceptan criticas a su trabajo de forma productiva la van a pasar mal. La idea inicial va a cambiar (a.k.a "Pivotar"), el equipo va a tener momentos de tension, la comida va a tardar en llegar y vas a querer partirle la cara a cualquiera que te interrumpa.
 
 Pero al mismo tiempo vas a aprender todo lo que hace falta para tener un negocio viable. Y no soy tan buen escritor como para llevar la energía y electricidad del ambiente a palabras que le hagan justicia.
+
+
 ```
 tip 2:
 cada vez que un mentor pase por tu mesa, habla con el/ella,

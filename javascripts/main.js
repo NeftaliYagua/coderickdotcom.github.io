@@ -3,8 +3,8 @@
 //typed.js for the main animation
 $(function(){
     $("#typed").typed({
-      strings: ["thoughts ^100", "projects", "rants", "awful tweets", "life changing blog posts", "sarcasm masterclasses"] ,
+      strings: ["s ideas", "s proyectos", "s quejas", "s terribles tweets", "s blogs", "s clases de sarcasmo", "."] ,
       typeSpeed: 40,
-      loop:true
+      loop:false
     });
 });
