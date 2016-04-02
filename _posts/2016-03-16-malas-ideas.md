@@ -1,6 +1,6 @@
 ---
 title: Malas ideas.
-summary: Todas las buenas ideas empezaron como malas ideas.
+summary: Todas las buenas ideas empezaron como malas ideas. 
 layout: post
 date: 2016-03-16
 ---

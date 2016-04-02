@@ -3,7 +3,7 @@
 //typed.js for the main animation
 $(function(){
     $("#typed").typed({
-      strings: ["s ideas", "s proyectos", "s quejas", "s terribles tweets", "s blogs", "s clases de sarcasmo", "."] ,
+      strings: ["y ideas", "y projects", "y rants", "y terrible tweets", "y blog", "y sarcasm", "e."] ,
       typeSpeed: 30,
       loop:false
     });
