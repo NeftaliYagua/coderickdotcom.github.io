@@ -1,15 +1,15 @@
 ---
 title: Sobre mí.
 layout: page
-summary: Me llamo Ricardo Sabatino, y me gusta hacer cosas interesantes. A veces me pagan por eso.
+summary: Me gusta crear proyectos interesantes. A veces me pagan por eso.
 permalink: /about/index.html
 ---
 # Hola! soy Ricardo.
-Me gusta construir cosas y resolver problemas. Antes de trabajar como emprendedor estudié Ingenieria
- Mecatroníca y luego Mecanica. Aprecio el orden y tengo un sincero odio por el codigo sin comentarios.
+Me dedico construir cosas (online) y resolver problemas. Antes de trabajar como emprendedor estudié Ingenieria
+ Mecatroníca y luego Mecanica.
 
  Hablame de rap/R&B/Hip-Hop, stoner rock, tatuajes, running, peliculas, podcasts, diseño industrial,
- codigo, Apple, Reddit o politica americana.
+ codigo, Apple, Reddit...
 
 Actualmente soy CTO y cofundador en [COTOLABS](http://www.cotolabs.com), mientras trabajo en otros  [proyectos](/projects) y termino mis estudios.
 
